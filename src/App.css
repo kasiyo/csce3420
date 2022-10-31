@@ -15,6 +15,7 @@
 
 .App-header {
     background-image: url(/public/images/GHI_SpiritedAway_Select2.jpg);
+    background-size: cover;
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
