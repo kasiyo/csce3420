@@ -1,5 +1,6 @@
 #classicformpage .view {
     background-image: url("/public/images/GHI_SpiritedAway_Select2.jpg");
+    opacity: 0.3;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
